@@ -2,11 +2,11 @@
 
 ## In this repository
 ### Notebooks
-
-### Inside the `data` directory
 - `data_collection`
 - `data_analysis`
 - `data_visualization`
+
+### Inside the `data` directory
 
 ## Project description
 
