@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 705.1 373.4" style="enable-background:new 0 0 705.1 373.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;}
+	.st2{font-family:'Helvetica';}
+	.st3{font-size:10px;}
+	.st4{font-family:'ArialMT';}
+	.st5{fill:#DD1C77;}
+	.st6{fill:none;stroke:#CCCCCC;}
+	.st7{fill:#F5A623;}
+	.st8{fill:#5E4FA2;}
+	.st9{font-family:'Arial-BoldMT';}
+	.st10{font-size:18px;}
+	.st11{font-size:14px;}
+	.st12{fill:#666666;}
+	.st13{fill:#888888;}
+	.st14{font-size:12px;}
+</style>
+<rect id="background" x="5.1" y="9" class="st0" width="700" height="350"/>
+<g id="visualization" transform="translate(50,0)">
+	<g id="axis">
+		<g transform="translate(0,300)">
+			<path class="st1" d="M5.6,15V9.5h600V15"/>
+			<g transform="translate(0.5,0)">
+				<line class="st1" x1="5.1" y1="9" x2="5.1" y2="15"/>
+				<text transform="matrix(1 0 0 1 2.3022 25.0548)" class="st2 st3">0 dollars</text>
+			</g>
+			<g transform="translate(60.5,0)">
+				<line class="st1" x1="5.1" y1="9" x2="5.1" y2="15"/>
+				<text transform="matrix(1 0 0 1 -0.4786 25.0548)" class="st2 st3">50</text>
+			</g>
+			<g transform="translate(120.5,0)">
+				<line class="st1" x1="5.1" y1="9" x2="5.1" y2="15"/>
+				<text transform="matrix(1 0 0 1 -3.2594 25.0548)" class="st2 st3">100</text>
+			</g>
+			<g transform="translate(180.5,0)">
+				<line class="st1" x1="5.1" y1="9" x2="5.1" y2="15"/>
+				<text transform="matrix(1 0 0 1 -3.2594 25.0548)" class="st2 st3">150</text>
+			</g>
+			<g transform="translate(240.5,0)">
+				<line class="st1" x1="5.1" y1="9" x2="5.1" y2="15"/>
+				<text transform="matrix(1 0 0 1 -3.2594 25.0548)" class="st2 st3">200</text>
+			</g>
+			<g transform="translate(300.5,0)">
+				<line class="st1" x1="5.1" y1="9" x2="5.1" y2="15"/>
+				<text transform="matrix(1 0 0 1 -3.2592 25.0548)" class="st2 st3">250</text>
+			</g>
+			<g transform="translate(360.5,0)">
+				<line class="st1" x1="5.1" y1="9" x2="5.1" y2="15"/>
+				<text transform="matrix(1 0 0 1 -3.2595 25.0548)" class="st2 st3">300</text>
+			</g>
+			<g transform="translate(420.5,0)">
+				<line class="st1" x1="5.1" y1="9" x2="5.1" y2="15"/>
+				<text transform="matrix(1 0 0 1 -3.2593 25.0548)" class="st2 st3">350</text>
+			</g>
+			<g transform="translate(480.5,0)">
+				<line class="st1" x1="5.1" y1="9" x2="5.1" y2="15"/>
+				<text transform="matrix(1 0 0 1 -3.2593 25.0548)" class="st2 st3">400</text>
+			</g>
+			<g transform="translate(540.5,0)">
+				<line class="st1" x1="5.1" y1="9" x2="5.1" y2="15"/>
+				<text transform="matrix(1 0 0 1 -3.2592 25.0548)" class="st2 st3">450</text>
+			</g>
+			<g transform="translate(600.5,0)">
+				<line class="st1" x1="5.1" y1="9" x2="5.1" y2="15"/>
+				<text transform="matrix(1 0 0 1 -3.259 25.0548)" class="st2 st3">500</text>
+			</g>
+		</g>
+	</g>
+	<g id="viz">
+		<g id="Knocker" transform="translate(0,0)">
+			<text transform="matrix(1 0 0 1 -37.7728 103.6355)" class="st4 st3">Knockers</text>
+			<rect x="10.6" y="77.9" class="st5" width="15" height="46.2"/>
+			<path class="st6" d="M605.1,9"/>
+			<path class="st6" d="M5.1,9"/>
+		</g>
+		<g id="Leisure" transform="translate(0,100)">
+			<text transform="matrix(1 0 0 1 4.1379 80.1813)" class="st4 st3">Non-silicone</text>
+			<rect x="65.6" y="54.9" class="st7" width="60" height="46.2"/>
+			<path class="st6" d="M605.1,9"/>
+			<path class="st6" d="M5.1,9"/>
+		</g>
+		<g id="Silicone" transform="translate(0,200)">
+			<text transform="matrix(1 0 0 1 84.3429 61.6198)" class="st4 st3">Silicone</text>
+			<rect x="125.6" y="31.8" class="st8" width="480" height="46.2"/>
+			<path class="st6" d="M605.1,9"/>
+			<path class="st6" d="M5.1,9"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 -38.4385 26.5085)" class="st9 st10">Knitted Knockers is a cheeper alternative to conventional breast Prostheses</text>
+	<text transform="matrix(1 0 0 1 293.8646 178.5096)" class="st4 st11">Annotation of some sort</text>
+</g>
+<text transform="matrix(1 0 0 1 11.4852 51.9949)" class="st12 st4 st11">Price span of knitted knockers, non-silicone prostheses and silicone prosteses.</text>
+<text transform="matrix(1 0 0 1 12.2907 359.2621)" class="st13 st4 st14">Data: Ravelry and breastcancer.org</text>
+</svg>
