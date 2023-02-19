@@ -47,6 +47,7 @@ After having collected information on all the recipes in the medical knitting ca
 |stoma	|2|
 |mental_psycological	|1|
 
+Afterwards I used pandas to group the number of projects by recipe category. 
 
 ### New skills
 For this project I used Adobe Illustrator and ai2html for the first time. Although the outcome is not perfect, I think it turned out ok considering it is a first attempt. I learned a lot about how to create a chart in ggplot, export it to a pdf, tweak in in Illustrator and embed it in html using ai2html including creating several versions of each chart and including the necessary JavaScript element in the html.  
