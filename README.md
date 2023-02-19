@@ -6,7 +6,7 @@ The result is the article [Medical Knitting: How Breast Cancer Survivors Handle 
 ### Notebooks
 - `data_collection`: This notebook scrapes the knitting recipes in the 'medical knitting' subcategory on Ravelry.com and gathers information on the pattern and their popularity among the ravelry community. 
 - `data_analysis`: This notebook analyses the data gathered in `data_collection` alongside data from the CDC and manually collected data on the recommended yarn for the knitted knockers (the often used name for knitted breast prostheses) and the price of the yarn.
-- `data_visualization`: This notebook uses the R package ggplot to create the basic visualization of the data. The visualizations were later imported to illustrator and refined. 
+- `data_visualization`: This notebook uses the R package ggplot to create the basic visualization of the data. The visualizations were later imported to Adobe Illustrator and then converted into responsive html using [ai2html](http://ai2html.org/). 
 
 ### Inside the `data` directory
 
@@ -22,6 +22,32 @@ I also found that knitted knockers are a cheaper alternative to conventional bre
 
 ### Data collection
 
+- The data in `patterns_total.csv` was gathered by scraping the [medical knitting](https://www.ravelry.com/patterns/search#pc=medical&sort=popularity&view=captioned_thumbs) category of Ravelry.com
+- All the data on the price of the yarn for the knockers presented in `knockers_yarn_details.csv` was manually gathered from the recipes and the websites of the retailers of the yarn. 
+- I also manually collected a sample of prices of conventional breast prostheses using Google. The data can be found in `prosthesis_info.csv`. It wasn't used in the article as I decided to go with the price ranges on [breastcancer.org](https://www.breastcancer.org/treatment/surgery/breast-forms/types) as a measure for the price of conventional prostheses instead. 
+- The data on cancer rates comes from the [CDC's cancer statistics](https://gis.cdc.gov/Cancer/USCS/#/AtAGlance/).
+
 ### Data analysis process
+After having collected information on all the recipes in the medical knitting category, I manually categorized all of the recipes. In some categories there were a lot of recipes while other categories only has one or a few recipes. 7 of the recipes did not have a medical purpose, so they were categorized as `na`. Knitted knockers are the second largest category after heating/cooling bags. 
+
+|Category|n of recipes|
+|------|-------|
+|heating_cooling	|41|
+|knockers	|29|
+|cannula_iv	|20|
+|injury	|19|
+|menstruation	|14|
+|maternity	|13|
+|cast_cover	|12|
+|na	|7|
+|pain_relief	|5|
+|amputee	|3|
+|respiratory	|2|
+|fertility	|2|
+|stoma	|2|
+|mental_psycological	|1|
+
+Afterwards I used pandas to group the number of projects by recipe category. 
 
 ### New skills
+For this project I used Adobe Illustrator and ai2html for the first time. Although the outcome is not perfect, I think it turned out ok considering it is a first attempt. I learned a lot about how to create a chart in ggplot, export it to a pdf, tweak in in Illustrator and embed it in html using ai2html including creating several versions of each chart and including the necessary JavaScript element in the html.  
