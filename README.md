@@ -28,24 +28,25 @@ I also found that knitted knockers are a cheaper alternative to conventional bre
 - The data on cancer rates comes from the [CDC's cancer statistics](https://gis.cdc.gov/Cancer/USCS/#/AtAGlance/).
 
 ### Data analysis process
-After having collected information on all the recipes in the medical knitting category, I manually categorized all of the recipes. In some categories there were a lot of recipes while other categories only has one or a few recipes. 7 of the recipes did not have a medical purpose, so they were categorized as `na`. 
+After having collected information on all the recipes in the medical knitting category, I manually categorized all of the recipes. In some categories there were a lot of recipes while other categories only has one or a few recipes. 7 of the recipes did not have a medical purpose, so they were categorized as `na`. Knitted knockers are the second largest category after heating/cooling bags. 
 
 |Category|n of recipes|
 |------|-------|
-|amputee|3|
+|heating_cooling	|41|
+|knockers	|29|
 |cannula_iv	|20|
-|cast_cover|12|
-|fertility|2|
-|heating_cooling|41|
-|injury|19|
-|knockers|29|
-|maternity|13|
-|menstruation|14|
-|mental_psycological|1|
-|na|7|
-|pain_relief|5|
-|respiratory|2|
-|stoma|2|
+|injury	|19|
+|menstruation	|14|
+|maternity	|13|
+|cast_cover	|12|
+|na	|7|
+|pain_relief	|5|
+|amputee	|3|
+|respiratory	|2|
+|fertility	|2|
+|stoma	|2|
+|mental_psycological	|1|
+
 
 ### New skills
 For this project I used Adobe Illustrator and ai2html for the first time. Although the outcome is not perfect, I think it turned out ok considering it is a first attempt. I learned a lot about how to create a chart in ggplot, export it to a pdf, tweak in in Illustrator and embed it in html using ai2html including creating several versions of each chart and including the necessary JavaScript element in the html.  
