@@ -22,6 +22,9 @@ I also found that knitted knockers are a cheaper alternative to conventional bre
 
 ### Data collection
 
+- The data in `patterns_total.csv` was gathered by scraping the [medical knitting] (Ravelry.comhttps://www.ravelry.com/patterns/search#pc=medical&sort=popularity&view=captioned_thumbs) category of Ravelry.com
+- All the data on the price of the yarn for the knockers presented in `knockers_yarn_details.csv` was manually gathered from the recipes and the websites of the retailers of the yarn. 
+
 ### Data analysis process
 
 ### New skills
