@@ -13,9 +13,12 @@ The result is the article [Medical Knitting: How Breast Cancer Survivors Handle 
 ## Project description
 
 ### Aim of the project
-The aim of this project is to examine the use and popularity of the knitted knockers recipes among the ravelry.com users. It looks in to the popularity of the recipes compared to other categories of recipes in the "medical knitting" subcategory, examines the price of a knocker by looking at the recommended yarn and puts the concept into the larger context of breast cancer rates among women. 
+The aim of this project is to examine the use and popularity of the knitted knockers recipes among the ravelry.com users. It looks in to the popularity of the recipes compared to other categories of recipes in the "medical knitting" subcategory, examines the price of a knocker by looking at the recommended yarn and puts the concept into the larger context of high breast cancer rates among women compared to other types of cancer. 
 
 ### Findings
+I found that knitted knockers are the by far most popular category of recipe in the medical knitting subcategory. This is measured by the number of completed projects registred on Ravelry.com. 
+
+I also found that knitted knockers are a cheaper alternative to conventional breast prosteses.
 
 ### Data collection
 
