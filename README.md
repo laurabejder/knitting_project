@@ -9,6 +9,7 @@ The result is the article [Medical Knitting: How Breast Cancer Survivors Handle 
 - `data_visualization`: This notebook uses the R package ggplot to create the basic visualization of the data. The visualizations were later imported to Adobe Illustrator and then converted into responsive html using [ai2html](http://ai2html.org/). 
 
 ### Inside the `data` directory
+Inside this directory, you can find all the data used in the analysis.
 
 ## Project description
 
