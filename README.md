@@ -6,7 +6,7 @@ The result is the article [Medical Knitting: How Breast Cancer Survivors Handle 
 ### Notebooks
 - `data_collection`: This notebook scrapes the knitting recipes in the 'medical knitting' subcategory on Ravelry.com and gathers information on the pattern and their popularity among the ravelry community. 
 - `data_analysis`: This notebook analyses the data gathered in `data_collection` alongside data from the CDC and manually collected data on the recommended yarn for the knitted knockers (the often used name for knitted breast prostheses) and the price of the yarn.
-- `data_visualization`: This notebook uses the R package ggplot to create the basic visualization of the data. The visualizations were later imported to Adobe illustrator and then converted into responsive html using [ai2html](http://ai2html.org/). 
+- `data_visualization`: This notebook uses the R package ggplot to create the basic visualization of the data. The visualizations were later imported to Adobe Illustrator and then converted into responsive html using [ai2html](http://ai2html.org/). 
 
 ### Inside the `data` directory
 
@@ -30,3 +30,4 @@ I also found that knitted knockers are a cheaper alternative to conventional bre
 ### Data analysis process
 
 ### New skills
+For this project I used Adobe Illustrator and ai2html for the first time. Although the outcome is not perfect, I think it turned out ok considering it is a first attempt. I learned a lot about how to create a chart in ggplot, export it to a pdf, tweak in in Illustrator and embed it in html using ai2html including creating several versions of each chart and including the necessary JavaScript element in the html.  
