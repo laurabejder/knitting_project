@@ -30,21 +30,22 @@ I also found that knitted knockers are a cheaper alternative to conventional bre
 ### Data analysis process
 After having collected information on all the recipes in the medical knitting category, I 
 
-|Row Labels|	Count of Category|
-|amputee|	3|
+|Row Labels|Count of Category|
+|------|-------|
+|amputee|3|
 |cannula_iv	|20|
-|cast_cover|	12|
-|fertility|	2|
-|heating_cooling|	41|
-|injury|	19|
-|knockers|	29|
-|maternity|	13|
-|menstruation|	14|
-|mental_psycological|	1|
-|na|	7|
-|pain_relief|	5|
-|respiratory|	2|
-|stoma|	2|
+|cast_cover|12|
+|fertility|2|
+|heating_cooling|41|
+|injury|19|
+|knockers|29|
+|maternity|13|
+|menstruation|14|
+|mental_psycological|1|
+|na|7|
+|pain_relief|5|
+|respiratory|2|
+|stoma|2|
 
 
 ### New skills
