@@ -30,7 +30,7 @@ I also found that knitted knockers are a cheaper alternative to conventional bre
 ### Data analysis process
 After having collected information on all the recipes in the medical knitting category, I 
 
-|Row Labels|Count of Category|
+|Category|n of recipes|
 |------|-------|
 |amputee|3|
 |cannula_iv	|20|
