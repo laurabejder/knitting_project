@@ -4,11 +4,15 @@ The result is the article [Medical Knitting: How Breast Cancer Survivors Handle 
 
 ## In this repository
 ### Notebooks
-- `data_collection`: This notebook scrapes the knitting recipes in the 'medical knitting' subcategory on Ravelry.com and gathers information on the pattern and their popularity among the ravelry community. 
-- `data_analysis`: This notebook analyses the data gathered in `data_collection` alongside data from the CDC and manually collected data on the recommended yarn for the knitted knockers (the often used name for knitted breast prostheses) and the price of the yarn.
-- `data_visualization`: This notebook uses the R package ggplot to create the basic visualization of the data. The visualizations were later imported to Adobe Illustrator and then converted into responsive html using [ai2html](http://ai2html.org/). 
+- `data_collection.ipynb`: This notebook scrapes the knitting recipes in the 'medical knitting' subcategory on Ravelry.com and gathers information on the pattern and their popularity among the ravelry community. 
+- `data_analysis.ipynb`: This notebook analyses the data gathered in `data_collection` alongside data from the CDC and manually collected data on the recommended yarn for the knitted knockers (the often used name for knitted breast prostheses) and the price of the yarn.
+- `data_visualization.ipynb`: This notebook uses the R package ggplot to create the basic visualization of the data. The visualizations were later imported to Adobe Illustrator and then converted into responsive html using [ai2html](http://ai2html.org/). 
 
 ### Inside the `data` directory
+Inside this directory, you can find all the data used in the analysis.
+
+### Inside the `visuals` directory
+This directory contains the outputs of the ggplots created in `data_visualization.ipynb` and the versions edited in Adobe Illustrator.
 
 ## Project description
 
